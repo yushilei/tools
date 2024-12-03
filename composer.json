@@ -1,0 +1,13 @@
+{
+  "name": "yuyu/tools",
+  "type": "library",
+  "license": "MIT",
+  "description": "Webman plugin yuyu/tools",
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Yuyu\\Tools\\": "src"
+    }
+  }
+}
